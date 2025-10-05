@@ -1,0 +1,7 @@
+id=yazm
+name=YAZM - Yet Another ZRam Module
+version=v1.0
+versionCode=1
+author=jliemann
+description=Lightweight 2GB ZRAM swap module for improved performance
+updateJson=
