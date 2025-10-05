@@ -11,4 +11,4 @@ Yet Another ZRam Module is a simple and lightweight 2GB ZRam swap modules for An
 ---
 
 ## Download
-Download YAZM from here: [Download](https://github.com/jliemannn/YAZM)
+Download YAZM from here: [Download]([https://github.com/jliemannn/YAZM](https://github.com/jliemannn/YAZM/releases/tag/module))
